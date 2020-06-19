@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 19 17:39:25 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0172-cc7b-ccc0-000004870640 
+on database directory memory:C:\Users\user\IdeaProjects\CardApi\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/user/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_252-b09
+user.dir=C:\Users\user\IdeaProjects\CardApi
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
